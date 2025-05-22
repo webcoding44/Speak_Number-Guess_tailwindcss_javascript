@@ -1,0 +1,18 @@
+p{
+  line-height: 1.5rem;
+  margin: 0;
+}
+.play-again{
+  padding: 8px 15px;
+  border: 0;
+  background: #f4f4f4;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+.box{
+  border: 1px solid #dedede;
+  display: inline-block;
+  padding: 10px;
+  margin: 20px;
+  font-size: 30px;
+}
